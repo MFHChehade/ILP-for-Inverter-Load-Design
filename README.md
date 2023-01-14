@@ -4,3 +4,6 @@ This work designs the load bank used to test a power electronic inverter. The lo
 For that purpose, an integer linear program (ILP) optimization problem is formulated in the PDF file. 
 
 This optimization problem is then solved using the Optimization Toolbox of MATLAB. This can be found in the MATLAB script file.
+
+### Note: The code exists in ".mlx" and ".m" forms. 
+#### The ".mlx" version is suggested for better interpretability. 
